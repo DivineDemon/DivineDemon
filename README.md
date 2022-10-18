@@ -35,10 +35,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [Whatsapp Clone](https://github.com/DivineDemon/whatsapp-clone)  
+- 🔭 I’m currently working on the [KoalaSec Admin Panel](https://github.com/DivineDemon/whatsapp-clone)  
   
 
-- 🌱 I’m currently learning GraphQL and Typescript  
+- 🌱 I’m currently learning Vue.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
