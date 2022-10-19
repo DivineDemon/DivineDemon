@@ -41,7 +41,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🌱 I’m currently learning Vue.js  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JavaScript and related technologies  
   
 
 - ⚡ Fun fact: I have never used apple products in my life.  
