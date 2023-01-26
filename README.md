@@ -38,7 +38,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🔭 I’m currently working on the [KoalaSec Admin Panel](https://github.com/DivineDemon/whatsapp-clone)  
   
 
-- 🌱 I’m currently learning Vue.js  
+- 🌱 I’m currently learning Dev Ops
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
