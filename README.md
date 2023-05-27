@@ -35,10 +35,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on my [Developer Portfolio](https://github.com/DivineDemon/vue-portfolio)  
+- 🔭 I’m currently working on some Pet Projects.  
   
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning AWS.
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
