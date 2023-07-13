@@ -35,10 +35,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on some Pet Projects.  
+- 🔭 I’m currently working on ["All My Heart"](https://www.github.com/DivineDemon/allmyheart).  
   
 
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning Firebase.
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
