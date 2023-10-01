@@ -35,10 +35,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ["All My Heart"](https://www.github.com/DivineDemon/allmyheart).  
+- 🔭 I’m currently working on ["EasePDF"](https://www.github.com/DivineDemon/easepdf).  
   
 
-- 🌱 I’m currently learning Firebase.
+- 🌱 I’m currently learning TypeScript.
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
