@@ -35,7 +35,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ["EasePDF"](https://www.github.com/DivineDemon/easepdf).  
+- 🔭 I’m currently working on ["Breaddit"](https://www.github.com/DivineDemon/breaddit).  
   
 
 - 🌱 I’m currently learning TypeScript.
