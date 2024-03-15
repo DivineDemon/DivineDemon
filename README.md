@@ -35,16 +35,16 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ["Breaddit"](https://www.github.com/DivineDemon/breaddit).  
+- 🔭 I’m currently working on ["FC Admin"](https://github.com/FCDeveloper-704/fc-website-panel).  
   
 
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Framer Motion.
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
   
 
-- ⚡ Fun fact: I have never used apple products in my life.  
+- ⚡ Fun fact: I have never used apple products in my life (and i never will).  
 
 
 </td><td valign="top" width="50%">
