@@ -83,7 +83,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" />
 
 <br />
 
