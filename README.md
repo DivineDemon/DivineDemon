@@ -88,7 +88,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 ## Github Stats
-<table>
+<table style="width:100%">
   <tr>
     <th>Github Stats</th>
     <th>Github Stats</th>
