@@ -102,8 +102,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </table>
 
 <div style="width: 100%; height: 100%; display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" style="width: 100%; height: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" style="width: 100%; height: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" style="width: 50%; height: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" style="width: 50%; height: 100%;" />
 </div>
 
 <br />
