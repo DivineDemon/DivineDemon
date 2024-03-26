@@ -37,7 +37,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to JavaScript and related technologies  
 
 - ⚡ Fun fact: I have never used apple products in my life (and i never will).
-- 
+
 </td><td valign="top" width="50%">
 
 <div align="center">
