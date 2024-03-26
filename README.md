@@ -30,28 +30,36 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table style="width:100%">
   <tr>
-    <td valign="top" width="100%">
-      - 🔭 I’m currently working on ["Automaton"](https://github.com/DivineDemon/automaton).  
+    <th>Question</th>
+    <th>Answer</th>
+  <tr>
+    <td>
+      - 🔭 I’m currently working on
+    </td>
+    <td>
+      Automaton
     </td>
   </tr>
   <tr>
-    <td valign="top" width="100%">
-      - 🌱 I’m currently learning Framer Motion.
+    <td>
+      - 🌱 I’m currently learning
+    </td>
+    <td>Framer Motion</td>
+  </tr>
+  <tr>
+    <td>
+      - ❓ Ask me about
+    </td>
+    <td>
+       anything related to JavaScript and related technologies.
     </td>
   </tr>
   <tr>
-    <td valign="top" width="100%">
-      - ❓ Ask me about anything related to JavaScript and related technologies 
+    <td>
+       - ⚡ Fun fact
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="100%">
-       - ⚡ Fun fact: I have never used apple products in my life (and i never will).
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="100%">
-      <img src="https://i.pinimg.com/originals/6f/0f/8e/6f0f8ec691480c7b5de87e6ca79b4baf.gif" align="center" style="width: 100%; height: 100%;" />  
+    <td>
+       I have never used apple products in my life (and i never will).
     </td>
   </tr>
 </table>  
