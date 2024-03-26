@@ -88,8 +88,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" style="width: 50%" />
 
 <br/>
 <br/>
@@ -100,6 +100,3 @@ Visit my [Portfolio!](https://mushoodhanif.live)
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=DivineDemon&&style=flat-square)  
-
-<br />
-----
