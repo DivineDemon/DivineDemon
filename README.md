@@ -2,22 +2,22 @@
   
 
 <a href="https://github.com/https://github.com/DivineDemon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mushood-hanif/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/Mushood.Hanif" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/mushood_7/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9131774/mushood-hanif" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/https://www.kaggle.com/divinedemon" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
   
 ### Glad to see you here!  
@@ -28,23 +28,24 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-  
-- 🔭 I’m currently working on ["Automaton"](https://github.com/DivineDemon/automaton).  
-
-- 🌱 I’m currently learning Framer Motion.
-
-- ❓ Ask me about anything related to JavaScript and related technologies  
-
-- ⚡ Fun fact: I have never used apple products in my life (and i never will).
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/6f/0f/8e/6f0f8ec691480c7b5de87e6ca79b4baf.gif" align="center" style="width: 100%; height: 100%;" />
-</div>  
-
-</td></tr></table>  
+<table style="width:100%">
+  <tr>
+    <td valign="top" width="100%">
+      - 🔭 I’m currently working on ["Automaton"](https://github.com/DivineDemon/automaton).  
+      
+      - 🌱 I’m currently learning Framer Motion.
+      
+      - ❓ Ask me about anything related to JavaScript and related technologies  
+      
+      - ⚡ Fun fact: I have never used apple products in my life (and i never will).
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <img src="https://i.pinimg.com/originals/6f/0f/8e/6f0f8ec691480c7b5de87e6ca79b4baf.gif" align="center" style="width: 100%; height: 100%;" />
+      </div>  
+    </td>
+  </tr>
+</table>  
 
 <br/>
 
