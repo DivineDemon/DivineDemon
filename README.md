@@ -51,7 +51,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
       - ❓ Ask me about
     </td>
     <td>
-       anything related to JavaScript and related technologies.
+       anything related to JavaScript and related technologies
     </td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
        - ⚡ Fun fact
     </td>
     <td>
-       I have never used apple products in my life (and i never will).
+       I have never used apple products in my life (and i never will)
     </td>
   </tr>
 </table>  
