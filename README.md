@@ -48,8 +48,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>
 
-## Languages and Tools 
-
 <table style="width:100%">
   <tr>
     <th>Technology</th>
@@ -87,7 +85,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" style="width: 50%" />
 
