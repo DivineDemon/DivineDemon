@@ -42,13 +42,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
     <td>
-      - 🌱 I’m currently learning
+      🌱 I’m currently learning
     </td>
     <td>Framer Motion</td>
   </tr>
   <tr>
     <td>
-      - ❓ Ask me about
+      ❓ Ask me about
     </td>
     <td>
        anything related to JavaScript and related technologies
@@ -56,7 +56,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
     <td>
-       - ⚡ Fun fact
+      ⚡ Fun fact
     </td>
     <td>
        I have never used apple products in my life (and i never will)
