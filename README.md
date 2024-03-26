@@ -48,42 +48,62 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>
 
-## Languages and Tools  
-| Technology |       |
-|------------|-------|
-| [Bootstrap](https://getbootstrap.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> |
-| [CSS3](https://www.w3schools.com/css/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> |
-| [Express](https://expressjs.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> |
-| [Adobe XD](https://www.adobe.com/) | <img src="https://i.ibb.co/dKtDdd5/xd.png" alt="adobe-xd" width="40" height="40"/> |
-| [Flask](https://flask.palletsprojects.com/) | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> |
-| [Git](https://git-scm.com/) | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |
-| [HTML5](https://www.w3.org/html/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> |
-| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> |
-| [Linux](https://www.linux.org/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> |
-| [MariaDB](https://mariadb.org/) | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> |
-| [MongoDB](https://www.mongodb.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> |
-| [MySQL](https://www.mysql.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> |
-| [Next.js](https://nextjs.org/) | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> |
-| [Nginx](https://www.nginx.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> |
-| [Node.js](https://nodejs.org) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> |
-| [Nuxt.js](https://nuxtjs.org/) | <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> |
-| [PostgreSQL](https://www.postgresql.org) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> |
-| [Postman](https://postman.com) | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> |
-| [Python](https://www.python.org) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> |
-| [React](https://reactjs.org/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> |
-| [Redux](https://redux.js.org) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> |
-| [Tailwind CSS](https://tailwindcss.com/) | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> |
-| [Vue.js](https://vuejs.org/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> |
-| [Vuetify](https://vuetifyjs.com/en/) | <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> |
+## Languages and Tools 
+
+<table style="width:100%">
+  <tr>
+    <th>Technology</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>[Adobe XD](https://www.adobe.com/)</td>
+    <td><img src="https://i.ibb.co/dKtDdd5/xd.png" alt="adobe-xd" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>[Vue](https://vuejs.org/)</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/15484/15484278.png" alt="adobe-xd" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>[Nuxt](https://nuxt.com/)</td>
+    <td><img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="adobe-xd" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>[React](https://react.dev/)</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" alt="adobe-xd" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>[Next](https://nextjs.org/)</td>
+    <td><img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="adobe-xd" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>[Express](https://expressjs.com/)</td>
+    <td><img src="https://img.icons8.com/?size=256&id=kg46nzoJrmTR&format=png" alt="adobe-xd" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>[Tailwind CSS](https://tailwindcss.com/)</td>
+    <td><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="adobe-xd" width="40" height="40"/></td>
+  </tr>
+</table>
 
 <br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
+## Github Stats
+<table>
+  <tr>
+    <th>Github Stats</th>
+    <th>Github Stats</th>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>  
 <br/>  
 
 Visit my [Portfolio!](https://mushoodhanif.live)  
