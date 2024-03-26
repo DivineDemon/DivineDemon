@@ -34,7 +34,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <th>Answer</th>
   <tr>
     <td>
-      - 🔭 I’m currently working on
+      🔭 I’m currently working on
     </td>
     <td>
       Automaton
