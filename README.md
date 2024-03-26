@@ -88,22 +88,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 ## Github Stats
-<table style="width:100%">
-  <tr>
-    <th>Github Stats</th>
-    <th>Github Stats</th>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>  
+<img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 <br/>  
 
 Visit my [Portfolio!](https://mushoodhanif.live)  
