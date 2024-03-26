@@ -97,7 +97,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
     <td>Tailwind CSS</td>
-    <td><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="adobe-xd" width="40" height="40"/></td>
+    <td><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="adobe-xd" width="100%" height="100%" style="object-fit: cover;" /></td>
   </tr>
 </table>
 
