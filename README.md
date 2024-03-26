@@ -56,31 +56,31 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <th></th>
   </tr>
   <tr>
-    <td>[Adobe XD](https://www.adobe.com/)</td>
+    <td>Adobe XD</td>
     <td><img src="https://i.ibb.co/dKtDdd5/xd.png" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td>[Vue](https://vuejs.org/)</td>
+    <td>Vue</td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/15484/15484278.png" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td>[Nuxt](https://nuxt.com/)</td>
+    <td>Nuxt</td>
     <td><img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td>[React](https://react.dev/)</td>
+    <td>React</td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td>[Next](https://nextjs.org/)</td>
+    <td>Next</td>
     <td><img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td>[Express](https://expressjs.com/)</td>
+    <td>Express</td>
     <td><img src="https://img.icons8.com/?size=256&id=kg46nzoJrmTR&format=png" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td>[Tailwind CSS](https://tailwindcss.com/)</td>
+    <td>Tailwind CSS</td>
     <td><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
 </table>
