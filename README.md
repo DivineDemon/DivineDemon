@@ -33,15 +33,23 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <td valign="top" width="100%">
       - 🔭 I’m currently working on ["Automaton"](https://github.com/DivineDemon/automaton).  
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="100%">
       - 🌱 I’m currently learning Framer Motion.
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="100%">
       - ❓ Ask me about anything related to JavaScript and related technologies 
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="100%">
        - ⚡ Fun fact: I have never used apple products in my life (and i never will).
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="100%">
       <div align="center">
         <img src="https://i.pinimg.com/originals/6f/0f/8e/6f0f8ec691480c7b5de87e6ca79b4baf.gif" align="center" style="width: 100%; height: 100%;" />
