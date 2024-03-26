@@ -35,7 +35,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ["FC Admin"](https://github.com/FCDeveloper-704/fc-website-panel).  
+- 🔭 I’m currently working on ["Automaton"](https://github.com/DivineDemon/automaton).  
   
 
 - 🌱 I’m currently learning Framer Motion.
@@ -50,7 +50,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://gist.githubusercontent.com/thivatm/eab535bd4f6f8ca370b6663ff1b429c1/raw/d996cf1a935fc5d1269d8a50ef45f96cda090e47/Greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/6f/0f/8e/6f0f8ec691480c7b5de87e6ca79b4baf.gif" align="center" style="width: 100%; height: 100%;" />
 </div>  
 
 
