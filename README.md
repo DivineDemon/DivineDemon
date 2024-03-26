@@ -111,6 +111,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 Visit my [Portfolio!](https://mushoodhanif.live)  
   
 <br/>
-<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=DivineDemon&&style=flat-square)  
