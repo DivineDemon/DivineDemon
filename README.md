@@ -54,7 +54,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 | [Bootstrap](https://getbootstrap.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> |
 | [CSS3](https://www.w3schools.com/css/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> |
 | [Express](https://expressjs.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> |
-| [Adobe XD](https://www.adobe.com/) | <img src="https://ibb.co/F7XzSSD" alt="adobe-xd" width="40" height="40"/> |
+| [Adobe XD](https://www.adobe.com/) | <img src="https://i.ibb.co/dKtDdd5/xd.png" alt="adobe-xd" width="40" height="40"/> |
 | [Flask](https://flask.palletsprojects.com/) | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> |
 | [Git](https://git-scm.com/) | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |
 | [HTML5](https://www.w3.org/html/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> |
