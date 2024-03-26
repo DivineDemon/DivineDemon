@@ -51,9 +51,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
     <td valign="top" width="100%">
-      <div align="center">
-        <img src="https://i.pinimg.com/originals/6f/0f/8e/6f0f8ec691480c7b5de87e6ca79b4baf.gif" align="center" style="width: 100%; height: 100%;" />
-      </div>  
+      <img src="https://i.pinimg.com/originals/6f/0f/8e/6f0f8ec691480c7b5de87e6ca79b4baf.gif" align="center" style="width: 100%; height: 100%;" />  
     </td>
   </tr>
 </table>  
