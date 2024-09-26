@@ -77,27 +77,27 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
     <td>Vue</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/15484/15484278.png" alt="adobe-xd" width="40" height="40"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/15484/15484278.png" alt="adobe-xd" width="40" height="40" /></td>
   </tr>
   <tr>
     <td>Nuxt</td>
-    <td><img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="adobe-xd" width="40" height="40"/></td>
+    <td><img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="adobe-xd" width="40" height="40" /></td>
   </tr>
   <tr>
     <td>React</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" alt="adobe-xd" width="40" height="40"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" alt="adobe-xd" width="40" height="40" /></td>
   </tr>
   <tr>
     <td>Next</td>
-    <td><img data-v-a1903a08="" class="app-preview__image-origin" srcset="https://img.icons8.com/?size=256&amp;id=r2OarXWQc7B6&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=r2OarXWQc7B6&amp;format=png 2x" width="256" height="256" alt="Next.js icon" style="filter: invert(100%) sepia(3%) saturate(4%) hue-rotate(307deg) brightness(106%) contrast(100%);"></td>
+    <td><img src="https://img.icons8.com/?size=256&id=r2OarXWQc7B6&format=png" alt="next-js" width="40" height="40" /></td>
   </tr>
   <tr>
     <td>Express</td>
-    <td><img style="filter: invert(1);" src="https://img.icons8.com/?size=256&id=z228V7A9QyTv&format=png" alt="adobe-xd" width="40" height="40"/></td>
+    <td><img style="filter: invert(1);" src="https://img.icons8.com/?size=256&id=z228V7A9QyTv&format=png" alt="adobe-xd" width="40" height="40" /></td>
   </tr>
   <tr>
     <td>Tailwind CSS</td>
-    <td><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" width="40" height="40"/></td>
+    <td><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" width="40" height="40" /></td>
   </tr>
 </table>
 
