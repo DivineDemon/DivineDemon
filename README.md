@@ -89,11 +89,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
     <td>Next</td>
-    <td><img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="adobe-xd" width="40" height="40"/></td>
+    <td><img data-v-a1903a08="" class="app-preview__image-origin" srcset="https://img.icons8.com/?size=256&amp;id=r2OarXWQc7B6&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=r2OarXWQc7B6&amp;format=png 2x" width="256" height="256" alt="Next.js icon" style="filter: invert(100%) sepia(3%) saturate(4%) hue-rotate(307deg) brightness(106%) contrast(100%);"></td>
   </tr>
   <tr>
     <td>Express</td>
-    <td><img style="filter: invert(1);" src="https://img.icons8.com/?size=256&id=kg46nzoJrmTR&format=png" alt="adobe-xd" width="40" height="40"/></td>
+    <td><img style="filter: invert(1);" src="https://img.icons8.com/?size=256&id=z228V7A9QyTv&format=png" alt="adobe-xd" width="40" height="40"/></td>
   </tr>
   <tr>
     <td>Tailwind CSS</td>
