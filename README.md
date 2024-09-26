@@ -37,14 +37,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
       🔭 I’m currently working on
     </td>
     <td>
-      Horizon
+      My Portfolio
     </td>
   </tr>
   <tr>
     <td>
       🌱 I’m currently learning
     </td>
-    <td>Framer Motion</td>
+    <td>Bun & Hono</td>
   </tr>
   <tr>
     <td>
@@ -97,7 +97,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
   <tr>
     <td>Tailwind CSS</td>
-    <td><img src="https://img.icons8.com/?size=256&id=kg46nzoJrmTR&format=png" alt="tailwind" width="40" height="40"/></td>
+    <td><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" width="40" height="40"/></td>
   </tr>
 </table>
 
