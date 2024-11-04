@@ -37,7 +37,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
       🔭 I’m currently working on
     </td>
     <td>
-      My Portfolio
+      My Next.js Starter Kit
     </td>
   </tr>
   <tr>
