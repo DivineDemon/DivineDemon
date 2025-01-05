@@ -44,7 +44,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <td>
       🌱 I’m currently learning
     </td>
-    <td>Bun & Hono</td>
+    <td>langchain</td>
   </tr>
   <tr>
     <td>
