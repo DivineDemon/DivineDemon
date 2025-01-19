@@ -1,115 +1,90 @@
-## Hey 👋, I'm Mushood Hanif!  
-  
+<h1 align="left">Hey 👋, I'm Mushood Hanif!</h1>
 
-<a href="https://github.com/DivineDemon" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/mushood-hanif/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Mushood.Hanif" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/mushood_7/" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/9131774/mushood-hanif" target="_blank">
-  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/divinedemon" target="_blank">
-  <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-  
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into hardcore experience. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+###
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+<h2 align="left">Glad to see you here!</h2>
 
-<br/>  
+###
 
-## Rapidfire  
-<table style="width:100%">
-  <tr>
-    <th>Question</th>
-    <th>Answer</th>
-  <tr>
-    <td>
-      🔭 I’m currently working on
-    </td>
-    <td>
-      Coeus
-    </td>
-  </tr>
-  <tr>
-    <td>
-      🌱 I’m currently learning
-    </td>
-    <td>langchain</td>
-  </tr>
-  <tr>
-    <td>
-      ❓ Ask me about
-    </td>
-    <td>
-       anything related to JavaScript and related technologies
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ⚡ Fun fact
-    </td>
-    <td>
-       I have never used apple products in my life (and i never will)
-    </td>
-  </tr>
-</table>  
+<p align="left">I'm a full-stack developer with 3+ years of experience in designing and building dynamic, responsive, and scalable web applications. With a solid foundation in both frontend and backend technologies, I am passionate about creating user-friendly, efficient, and high-performance solutions that align with business goals.<br><br>🔹 Frontend: I specialize in modern JavaScript frameworks like React and Vue, leveraging TypeScript to write clean, maintainable code. My experience includes building complex UIs in Next.js, optimizing for SEO and server-side rendering, and creating responsive designs that enhance user engagement.<br><br>🔹 Backend: On the server side, I work with Express.js, Hono.js to create secure, efficient RESTful APIs. I have hands-on experience with databases such as MySQL, PostgreSQL, and MongoDB, managing data integrity, optimizing queries, and ensuring application reliability.<br><br>🔹 Full Stack Development: I am skilled in integrating frontend and backend components, enabling seamless communication and optimized data flow. My goal is to deliver high-quality products by focusing on best practices in testing, debugging, and performance tuning.<br><br>I'm always excited to collaborate on innovative projects and stay updated with the latest industry trends. Let’s connect if you're looking for a motivated and adaptable developer who can contribute to your team’s success!</p>
 
-<br/>
+###
 
-<table style="width:100%">
-  <tr>
-    <th>Technology</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>Adobe XD</td>
-    <td><img src="https://i.ibb.co/dKtDdd5/xd.png" alt="adobe-xd" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td>Vue</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/15484/15484278.png" alt="adobe-xd" width="40" height="40" /></td>
-  </tr>
-  <tr>
-    <td>Nuxt</td>
-    <td><img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="adobe-xd" width="40" height="40" /></td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" alt="adobe-xd" width="40" height="40" /></td>
-  </tr>
-  <tr>
-    <td>Next</td>
-    <td><img style="filter: invert(1);" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="next-js" width="40" height="40" /></td>
-  </tr>
-  <tr>
-    <td>Express</td>
-    <td><img style="filter: invert(1);" src="https://img.icons8.com/?size=256&id=z228V7A9QyTv&format=png" alt="adobe-xd" width="40" height="40" /></td>
-  </tr>
-  <tr>
-    <td>Tailwind CSS</td>
-    <td><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" width="40" height="40" /></td>
-  </tr>
-</table>
-
-<div style="width: 100%; height: 100%; display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&hide_border=true&layout=compact" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/mushood-hanif/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/9131774/mushood-hanif" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="supame123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mushood_7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/923268860405" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
-<br />
+###
 
-Visit my [Portfolio!](https://mushoodhanif.com)  
-  
-<br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+</div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=DivineDemon&&style=flat-square)  
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21tq5zpr5khlipzoegk34eb3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21tq5zpr5khlipzoegk34eb3a&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=DivineDemon&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivineDemon&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DivineDemon/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DivineDemon/DivineDemon/output/snake.svg" alt="Snake animation" />
+
+###
