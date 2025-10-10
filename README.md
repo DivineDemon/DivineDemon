@@ -1,111 +1,118 @@
-<h1 align="left">Hey 👋, I'm Mushood Hanif!</h1>
+# 👋 Hey, I'm Mushood Hanif!
 
-###
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushood-hanif/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supame123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mushood_7/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9131774/mushood-hanif)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923268860405)
 
-<h2 align="left">Glad to see you here!</h2>
-
-###
-
-<p align="left">I'm a full-stack developer with 3+ years of experience in designing and building dynamic, responsive, and scalable web applications. With a solid foundation in both frontend and backend technologies, I'm passionate about creating user-friendly, efficient, and high-performance solutions that align with business goals.</p>
-
-###
-
-<h3 align="left">🔹 Frontend</h3>
-
-###
-
-<p align="left">Frameworks & Libraries: React, Next.js<br>Languages: TypeScript, Python<br>Strengths: Clean, maintainable code; SEO optimization; server-side rendering; responsive design</p>
-
-###
-
-<h3 align="left">🔹 Backend</h3>
-
-###
-
-<p align="left">Runtime & Frameworks: Node.js, Express.js, Hono.js<br>Databases: MySQL, PostgreSQL, MongoDB<br>Focus: Secure, efficient RESTful APIs; data modeling; query optimization; application reliability</p>
-
-###
-
-<h3 align="left">🔹 Full Stack</h3>
-
-###
-
-<p align="left">Skilled in integrating frontend and backend components to enable seamless communication and optimized data flow. I prioritize best practices in testing, debugging, and performance tuning to deliver high-quality products.</p>
-
-###
-
-<h2 align="left">📫 Connect with me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mushood-hanif/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="supame123@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/mushood_7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/9131774/mushood-hanif" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://wa.me/923268860405" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo"  />
-  </a>
 </div>
 
-###
+---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+## 🚀 About Me
 
-###
+I'm a **Full-Stack Developer** with **3+ years of experience** specializing in designing and building dynamic, responsive, and scalable web applications. I'm passionate about creating user-friendly, efficient, and high-performance solutions that drive business value.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="fastapi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="express logo"  />
+---
+
+## 💻 Tech Stack
+
+### Frontend Development
+```typescript
+const frontend = {
+  frameworks: ['React', 'Next.js'],
+  languages: ['TypeScript', 'JavaScript'],
+  styling: ['Tailwind CSS', 'CSS3'],
+  stateManagement: ['Redux', 'Context API'],
+  focus: ['Responsive Design', 'SEO Optimization', 'Server-Side Rendering']
+};
+```
+
+### Backend Development
+```javascript
+const backend = {
+  runtime: 'Node.js',
+  frameworks: ['Express.js', 'Hono.js', 'FastAPI'],
+  databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
+  languages: ['TypeScript', 'Python'],
+  focus: ['RESTful APIs', 'Data Modeling', 'Query Optimization', 'Security']
+};
+```
+
+### Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+---
+
+## 🎯 What I Do
+
+- ✨ Build modern, responsive web applications with **React** and **Next.js**
+- 🔧 Design and develop scalable **RESTful APIs** with **Node.js** and **Python**
+- 🗄️ Architect efficient database solutions with **PostgreSQL**, **MySQL**, and **MongoDB**
+- 🚀 Optimize application performance and implement **SEO** best practices
+- 🔐 Ensure security and data integrity across full-stack applications
+- 📱 Create seamless user experiences with clean, maintainable code
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivineDemon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<h2 align="left">🎧 Currently Listening</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=DivineDemon&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
-###
+---
+
+## 🎧 Currently Listening To
 
 <div align="center">
   <a href="https://open.spotify.com/user/21tq5zpr5khlipzoegk34eb3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21tq5zpr5khlipzoegk34eb3a&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21tq5zpr5khlipzoegk34eb3a&count=5&unique=true" alt="Spotify Recently Played"/>
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">🏆 GitHub Stats</h2>
-
-###
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=DivineDemon&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivineDemon&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivineDemon&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DivineDemon/count.svg?"  />
-</div>
+  
+### 💬 Let's Connect and Build Something Amazing!
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=DivineDemon&color=blueviolet&style=for-the-badge)
+
+</div>
