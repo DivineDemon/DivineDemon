@@ -77,16 +77,16 @@ const backend = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivineDemon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivineDemon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivineDemon&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=DivineDemon&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivineDemon&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivineDemon&theme=tokyonight&utcOffset=5" alt="Productive Time" height="200"/>
 </div>
 
 ---
