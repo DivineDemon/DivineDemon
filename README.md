@@ -86,7 +86,6 @@ const backend = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivineDemon&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivineDemon&theme=tokyonight&utcOffset=5" alt="Productive Time" height="200"/>
 </div>
 
 ---
