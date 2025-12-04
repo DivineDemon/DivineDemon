@@ -77,10 +77,6 @@ const backend = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineDemon&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="200"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivineDemon&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
