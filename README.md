@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with **3+ years of experience** specializing in designing and building dynamic, responsive, and scalable web applications. I'm passionate about creating user-friendly, efficient, and high-performance solutions that drive business value.
+I'm a **Full-Stack Developer** with **5+ years of experience** specializing in designing and building dynamic, responsive, and scalable web applications. I'm passionate about creating user-friendly, efficient, and high-performance solutions that drive business value.
 
 ---
 
