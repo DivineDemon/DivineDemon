@@ -86,16 +86,6 @@ const backend = {
 
 ---
 
-## 🎧 Currently Listening To
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21tq5zpr5khlipzoegk34eb3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21tq5zpr5khlipzoegk34eb3a&count=5&unique=true" alt="Spotify Recently Played"/>
-  </a>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
