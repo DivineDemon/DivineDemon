@@ -15,7 +15,9 @@
 
 </div>
 
-## 👋 About Me
+---
+
+### 👋 About Me
 
 I'm a **Senior Full-Stack Engineer & Team Lead** with **5+ years** of experience building scalable, AI-driven SaaS products across multiple domains. I own systems **end-to-end** — from architecture decisions to production deployments — with a strong focus on TypeScript ecosystems and automation platforms.
 
