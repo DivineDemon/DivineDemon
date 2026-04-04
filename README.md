@@ -13,11 +13,6 @@
 
 *Building scalable, AI-driven products — end to end.*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mushoodhanif.com-0f172a?style=for-the-badge)](https://mushoodhanif.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mushood_Hanif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mushood-hanif)
-[![Email](https://img.shields.io/badge/Email-mohdmushood@yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdmushood@yahoo.com)
-[![Location](https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-16a34a?style=for-the-badge)](#)
-
 </div>
 
 ---
@@ -105,9 +100,12 @@ I'm a **Senior Full-Stack Engineer & Team Lead** with **5+ years** of experience
 
 I'm always open to discussing exciting projects, AI-driven product ideas, or senior/lead engineering roles.
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-mushoodhanif.com-0f172a?style=for-the-badge&logo=safari&logoColor=white)](https://mushoodhanif.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mushood-hanif)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdmushood@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mushoodhanif.com-0f172a?style=for-the-badge&logo=safari&logoColor=white)](https://mushoodhanif.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushood-hanif/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdmushood@yahoo.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mushood_7/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9131774/mushood-hanif)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923268860405)
 
 ---
 
