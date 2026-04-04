@@ -29,7 +29,7 @@ I'm a **Senior Full-Stack Engineer & Team Lead** with **5+ years** of experience
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'm a **Senior Full-Stack Engineer & Team Lead** with **5+ years** of experience
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivineDemon&theme=tokyonight" alt="GitHub Profile Summary"/>
@@ -86,7 +86,7 @@ I'm a **Senior Full-Stack Engineer & Team Lead** with **5+ years** of experience
  
 ---
  
-## 📈 Contribution Activity
+### 📈 Contribution Activity
  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivineDemon&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
@@ -94,7 +94,7 @@ I'm a **Senior Full-Stack Engineer & Team Lead** with **5+ years** of experience
  
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 <div align="center">
 
