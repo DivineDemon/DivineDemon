@@ -9,7 +9,7 @@
  ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝
 ```
 
-### Senior Full-Stack Developer & Team Lead
+### Senior Full-Stack Engineer & Team Lead
 
 *Building scalable, AI-driven products — end to end.*
 
