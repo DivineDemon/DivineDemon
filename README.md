@@ -68,18 +68,6 @@ Before Haga I spent **5+ years** as a Development Team Lead shipping AI-driven S
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivineDemon&theme=tokyonight" alt="GitHub Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivineDemon&theme=tokyonight" alt="GitHub Stats" height="200"/>
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
